@@ -6,7 +6,7 @@ Just drag the .dll into your BepinEx\Plugins install location and boom your inst
 
 # Controls
 
-Glied - "Right Joystick click"
+Glide - "Right Joystick click"
 thats it
 
 
